@@ -4,8 +4,11 @@ backend/node_modules/
 **/node_modules/
 
 # Environment files
+backend/config/config.env
 .env
 **/.env
+config.env
+**/config.env
 
 # OS files
 .DS_Store
