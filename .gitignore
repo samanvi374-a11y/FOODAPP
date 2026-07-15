@@ -1,0 +1,18 @@
+# Ignore dependencies
+frontend/node_modules/
+backend/node_modules/
+**/node_modules/
+
+# Environment files
+.env
+**/.env
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Build folders
+build/
+dist/
